@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+D:\WebFastFood\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3670532573.index
+1372693478.index
+4142587745.index
+4128413491.index
+17284566.index
+2325229545.index
+3468501820.index

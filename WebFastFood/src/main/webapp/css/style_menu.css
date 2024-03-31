@@ -1,0 +1,18 @@
+.menu_item{
+    margin-left: 75px;
+    margin-bottom: 50px;
+}
+.body
+{
+    margin:0 auto;
+    padding: 0;
+    background-image: url("https://img.targetvn.com/arnoldburger/img/bg/yellow-bg.jpg");
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    background-size: 100%;
+    background-position: top;
+}
+.menu{
+    padding: 0;
+    margin: auto;
+}

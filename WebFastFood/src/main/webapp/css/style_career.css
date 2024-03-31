@@ -1,0 +1,68 @@
+.body{
+    background-image: url("https://img.targetvn.com/arnoldburger/img/bg/yellow-bg.jpg");
+    background-size: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.content{
+    margin: 0 auto;
+    padding: 0;
+    width: 90%;
+}
+.col-lg-10{
+    margin: 0 auto;
+    padding: 0;
+}
+#block-job-list{
+    background-color: bisque;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.t-title{
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.job-list-title{
+    padding-top: 10px;
+    color:red;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.block-job{
+    border-style: solid;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+}
+.job-btn-more
+{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    font-size: 13pt;
+    font-weight: bold;
+    border-radius: 10px 10px;
+    text-align: center;
+    margin-top: 5px;
+}
+.job-icon{
+    width: 3%;
+}
+.job-title{
+    color:red;
+    font-weight: bold;
+    font-size: 25px;
+}
+.col-lg-6{
+    margin-bottom: 20px;
+}

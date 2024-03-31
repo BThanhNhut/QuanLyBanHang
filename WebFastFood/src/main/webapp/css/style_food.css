@@ -1,0 +1,37 @@
+.img-banner{
+    width: 100%;
+}
+.top-banner{
+    width: 100%;
+}
+.body{
+    background-image: url("../img/background/yellow-bg.jpg");
+    background-size: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.item-block{
+    width: 277px;
+    height: 340px;
+    margin-bottom: 30px;
+}
+.item-img{
+    width: 100%;
+}
+.col-lg-10{
+    margin: 0 auto;
+    padding: 0;
+    width:70%;
+}
+.item-name{
+    font-weight: bold;
+    font-size: 20px;
+}
+.item-price{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+

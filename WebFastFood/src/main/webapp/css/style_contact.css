@@ -1,0 +1,46 @@
+.body{
+    background-image: url("https://img.targetvn.com/arnoldburger/img/bg/yellow-bg.jpg");
+    background-size: 100%;
+    background-position: top;
+    background-repeat: no-repeat;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.col-lg-10{
+    margin: 0 auto;
+    padding: 0;
+}
+.row{
+    padding-top: 30px;
+    padding-left: 35px;
+    padding-right: 30px;
+}
+.content{
+    width: 90%;
+    margin: 0 auto;
+    padding: 0;
+}
+.contact-item-header{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    font-size: 24pt;
+    font-weight: bold;
+    border-radius: 10px 10px;
+    text-align: center;
+}
+.block-contact-item{
+    width: 50%;
+    margin-bottom: 20px;
+}
+.contact-item-info{
+    font-size: 20px;
+}
+.contact-item-info a{
+    text-decoration: none;
+    color: black;
+    margin-bottom: 10px;
+}
+.contact-item-info img{
+    width: 5%;
+}
