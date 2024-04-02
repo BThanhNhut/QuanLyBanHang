@@ -1,5 +1,5 @@
-# Game_Caro
-Game caro môn lập trình Java
+# Quan Ly Ban Hang
+Công
 # Các chức năng
 - chơi với máy (ở đây máy sẻ được sử dụng thuật toán min max cắt tỉa anpla beta)
 - chơi với người (chơi cùng máy)
