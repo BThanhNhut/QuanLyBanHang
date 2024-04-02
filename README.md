@@ -10,6 +10,7 @@ Application
 -	Chức năng Xử lý đơn hàng online.
 -	Chức năng Quản lý nhân viên.
 -	Chức năng Thống kèm.
+
 Website
 -	Chức năng Đặt đơn hàng online.
 -	Chức năng Gợi ý đồ ăn kèm.
